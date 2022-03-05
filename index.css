@@ -71,3 +71,9 @@ body{
     color: white;
     opacity: 0.7; /* Firefox */
   } 
+ @media only screen and (max-width: 600px) {
+    .container {
+       
+        left: 15%;
+    }
+  }
